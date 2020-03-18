@@ -79,7 +79,7 @@ if($_SESSION["adm_name"]==null){
             <form class="form" action="project_add_do.php" method="post" enctype="multipart/form-data">
                 <div class="form-group">
                    <label class="control-label col-sm-2" for="p_class">專案類別:</label>
-                    <div class="col-sm-10"> 
+                    <div class="col-sm-10">
                         <select class="form-control" name="p_class">
                           <option value="婚禮佈置">婚禮佈置</option>
                           <option value="廣告設計">廣告設計</option>
